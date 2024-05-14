@@ -39,7 +39,7 @@ export const AboutModal = memo(function AboutModal({ onClose }: Props) {
                   rel='noreferrer'
                   className='underline'
                 >
-                  wagao
+                  ARVRTISE ADS
                 </a>
               </p>
               <a href='https://github.com/wagao29/photomap24' target='_blank' rel='noreferrer'>
